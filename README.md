@@ -2,9 +2,9 @@
 
 Test your 2026–27 **BIOBUZZ** autonomous before you get to the field. Upload your real robot code and watch it run a full 30-second AUTO: paths, launches, hive tips, flower and garden pickups, servos, parking, the score, and anything that could draw a penalty.
 
-### ▶ AUTO simulator: **https://woodjame.github.io/FTC-Biobuzz-Auto-Simulator-/**
-### ▶ TeleOp simulator: **https://woodjame.github.io/FTC-Biobuzz-Auto-Simulator-/teleop.html**
-### ▶ Full match simulator: **https://woodjame.github.io/FTC-Biobuzz-Auto-Simulator-/match.html**
+### ▶ AUTO simulator: **[https://woodjame.github.io/FTC-Biobuzz-Auto-Simulator/](https://woodjame.github.io/Biobuzz-auto-simulation/)**
+### ▶ TeleOp simulator: **[https://woodjame.github.io/FTC-Biobuzz-Auto-Simulator/teleop.html](https://woodjame.github.io/Biobuzz-auto-simulation/teleop.html)**
+### ▶ Full match simulator: **[https://woodjame.github.io/FTC-Biobuzz-Auto-Simulator-/match.html](https://woodjame.github.io/Biobuzz-auto-simulation/index.html)**
 
 The three pages link to each other at the top. **AUTO** runs your autonomous by itself. **TeleOp** is 2:00 of driver control, starting from a typical end-of-AUTO field. **Full match** runs everyone's AUTO code, the transition, then TeleOp. The TeleOp and full match pages share their robot cards, controllers and settings in your browser.
 
